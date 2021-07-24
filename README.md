@@ -75,7 +75,7 @@ To be precise, following functions are tested (each of which is implemented by u
 
 - `inverse_fourier_transform`: calculates the Inverse Fourier Transform of a given Discrete Fourier Transform.
 
-- [Imp] The integretiry of `inverse_fourier_transform` and `discrete_fourier_transform` functions is also tested, i.e., we check if we are able to recover a dummy signal from its Discrete Fourier Transform by applying Inverse Fourier Transform on it. Passing this test ensures that everything is working perfectly fine.
+- [Imp] The integrity of `inverse_fourier_transform` and `discrete_fourier_transform` functions is also tested, i.e., we check if we are able to recover a dummy signal from its Discrete Fourier Transform by applying Inverse Fourier Transform on it. Passing this test ensures that everything is working perfectly fine.
 
 P.S.: All of these functions are defined in `utils/ops_utils.py`. More explanation about these functions is waiting in the next section(s).
 And all the functions to test these functions are stored in `utils/test_ops_utils.py`

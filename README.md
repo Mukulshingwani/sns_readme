@@ -12,7 +12,7 @@ This README is divided into following sections:
     - [Installing The Dependencies](#installing-the-dependencies)
     - [Running the code](#running-the-code)
     - [Testing Our Code](#testing-our-code)
-   - [Why and How are the these tests performed](#why-and-how-are-these-tests-performed)
+   - [Why and How are the these tests performed](#why-and-how-are-these-tests-performed-)
 
 - [Overview of the Code](#a-brief-overview-of-the-code)    
 [Note: This section is completely optional for you to read but it might save a lot of time while evaluating.]
